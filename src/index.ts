@@ -24,3 +24,5 @@ export * from './events/payment-created-event';
 
 export * from './events/product-add-to-wishlist-event';
 export * from './events/product-remove-from-wishlist-event';
+export * from './events/product-add-to-cart-event';
+export * from './events/product-remove-from-cart';

@@ -7,5 +7,7 @@ export enum Subjects {
   PaymentCreated = 'payment:created',
 
   ProductAddToWishlist = 'product_add_to_wishlist',
-  ProductRemoveFromWishlist = 'product_remove_from_wishlist'
+  ProductRemoveFromWishlist = 'product_remove_from_wishlist',
+  ProductAddToCart = 'product_add_to_cart',
+  ProductRemoveFromCart = 'product_remove_from_cart'
 }
