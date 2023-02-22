@@ -1,7 +1,7 @@
 import { Subjects } from "./subjects";
 
 export interface ProductAddToWishlistEvent {
-    subjects: Subjects.ProductAddToWishlist;
+    subject: Subjects.ProductAddToWishlist;
     data: {
         id: string;
         title: string;
