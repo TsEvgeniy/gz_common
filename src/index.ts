@@ -28,3 +28,4 @@ export * from './events/product-add-to-cart-event';
 export * from './events/product-remove-from-cart';
 
 export * from './events/product-created-event';
+export * from './events/product-updated-event';

@@ -6,10 +6,11 @@ export enum Subjects {
   ExpirationComplete = 'expiration:complete',
   PaymentCreated = 'payment:created',
 
-  ProductAddToWishlist = 'product_add_to_wishlist',
-  ProductRemoveFromWishlist = 'product_remove_from_wishlist',
-  ProductAddToCart = 'product_add_to_cart',
-  ProductRemoveFromCart = 'product_remove_from_cart',
+  ProductAddToWishlist = 'product:add to wishlist',
+  ProductRemoveFromWishlist = 'product:remove from wishlist',
+  ProductAddToCart = 'product:add to cart',
+  ProductRemoveFromCart = 'product:remove from cart',
 
-  ProductCreated = 'product_created',
+  ProductCreated = 'product:created',
+  ProductUpdated = 'product:updated',
 }
