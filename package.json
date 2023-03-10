@@ -1,6 +1,6 @@
 {
   "name": "@good_zone/common",
-  "version": "1.0.15",
+  "version": "1.0.16",
   "description": "",
   "main": "./build/index.js",
   "types": "./build/index.d.ts",
