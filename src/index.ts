@@ -31,3 +31,4 @@ export * from './events/product-created-event';
 export * from './events/product-updated-event';
 
 export * from './events/user-order-created-event';
+export * from './events/user-order-cancelled-event';

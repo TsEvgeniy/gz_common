@@ -14,5 +14,6 @@ export enum Subjects {
   ProductCreated = 'product:created',
   ProductUpdated = 'product:updated',
 
-  UserOrderCreated = 'user_order:created'
+  UserOrderCreated = 'user_order:created',
+  UserOrderCancelled = 'user_order:cancelled',
 }
